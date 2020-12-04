@@ -6,6 +6,7 @@
 #include <QTimer>
 
 #include <cmath>
+#include <qpainterpath.h>
 
 #define DESIRED_SAMPLES         800
 
